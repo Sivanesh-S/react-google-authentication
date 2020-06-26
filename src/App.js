@@ -14,7 +14,9 @@ function App() {
       <h2>The Hooks way</h2>
       <LoginHooks />
       <LogoutHooks />
-      <a href="MY_REPO_LINK">Github Repo</a>
+      <a href="https://github.com/Sivanesh-S/react-google-authentication">
+        Github Repo
+      </a>
     </div>
   );
 }
