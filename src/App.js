@@ -2,13 +2,19 @@ import React from 'react';
 import './App.css';
 import Login from './components/Login';
 import Logout from './components/Logout';
+import LoginHooks from './components/LoginHooks';
+import LogoutHooks from './components/LogoutHooks';
 
 function App() {
   return (
     <div className="App">
+      <h2>The Components way</h2>
       <Login />
       <Logout />
-      <a href="MY_REPO_LINK">my-react-google-login</a>
+      <h2>The Hooks way</h2>
+      <LoginHooks />
+      <LogoutHooks />
+      <a href="MY_REPO_LINK">Github Repo</a>
     </div>
   );
 }
