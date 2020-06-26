@@ -7,6 +7,7 @@ const clientId =
 function LogoutHooks() {
   const onLogoutSuccess = (res) => {
     console.log('Logged out Success');
+    alert('Logged out Successfully ✌');
   };
 
   const onFailure = () => {
