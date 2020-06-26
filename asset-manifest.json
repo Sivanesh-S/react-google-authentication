@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-google-authentication/static/css/main.f072c70a.chunk.css",
+    "main.js": "/react-google-authentication/static/js/main.bfd6ce1f.chunk.js",
+    "main.js.map": "/react-google-authentication/static/js/main.bfd6ce1f.chunk.js.map",
+    "runtime-main.js": "/react-google-authentication/static/js/runtime-main.406eb9a3.js",
+    "runtime-main.js.map": "/react-google-authentication/static/js/runtime-main.406eb9a3.js.map",
+    "static/js/2.c988052e.chunk.js": "/react-google-authentication/static/js/2.c988052e.chunk.js",
+    "static/js/2.c988052e.chunk.js.map": "/react-google-authentication/static/js/2.c988052e.chunk.js.map",
+    "index.html": "/react-google-authentication/index.html",
+    "precache-manifest.21455854c7ca2bd8f99155c8ad46e4c7.js": "/react-google-authentication/precache-manifest.21455854c7ca2bd8f99155c8ad46e4c7.js",
+    "service-worker.js": "/react-google-authentication/service-worker.js",
+    "static/css/main.f072c70a.chunk.css.map": "/react-google-authentication/static/css/main.f072c70a.chunk.css.map",
+    "static/js/2.c988052e.chunk.js.LICENSE.txt": "/react-google-authentication/static/js/2.c988052e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.406eb9a3.js",
+    "static/js/2.c988052e.chunk.js",
+    "static/css/main.f072c70a.chunk.css",
+    "static/js/main.bfd6ce1f.chunk.js"
+  ]
+}
